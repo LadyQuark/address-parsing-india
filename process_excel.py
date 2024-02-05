@@ -12,7 +12,7 @@ from training_data_prep import massage_data
 
 # Get ENV variables
 load_dotenv(find_dotenv())
-MODELS = os.getenv('MODELS')
+MODELS = os.getenv('MODELS', "models/model-best")
 
 nlp = spacy.load(MODELS)
 TAGS = [

@@ -21,9 +21,9 @@ tag_info = {
 
 # Get ENV variables
 load_dotenv(find_dotenv())
-TRAINING_CSV = os.getenv('TRAINING_CSV')
-TEST_CSV = os.getenv('TEST_CSV')
-DOCBINS = os.getenv('DOCBINS')
+TRAINING_CSV = os.getenv("TRAINING_CSV", "corpus/dataset/training_data.csv")
+TEST_CSV     = os.getenv("TEST_CSV", "corpus/dataset/training_data.csv")
+DOCBINS      = os.getenv("DOCBINS", "corpus/spacy_docbins")
 
 # Regexes
 re_commas   = re.compile(r'(,)(?!\s)')
