@@ -1,0 +1,1148 @@
+{"label":"CITY","pattern":[{"LOWER":"sindhudurg"}]}
+{"label":"CITY","pattern":[{"LOWER":"aligarh"}]}
+{"label":"CITY","pattern":[{"LOWER":"mandya"}]}
+{"label":"CITY","pattern":[{"LOWER":"solapur"}]}
+{"label":"CITY","pattern":[{"LOWER":"guna"}]}
+{"label":"CITY","pattern":[{"LOWER":"vaishali"}]}
+{"label":"CITY","pattern":[{"LOWER":"chandrapur"}]}
+{"label":"CITY","pattern":[{"LOWER":"hazaribagh"}]}
+{"label":"CITY","pattern":[{"LOWER":"karwar"}]}
+{"label":"CITY","pattern":[{"LOWER":"tenali"}]}
+{"label":"CITY","pattern":[{"LOWER":"kurukshetra"}]}
+{"label":"CITY","pattern":[{"LOWER":"medak"}]}
+{"label":"CITY","pattern":[{"LOWER":"faridabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"mandsaur"}]}
+{"label":"CITY","pattern":[{"LOWER":"sawaimadhopur"}]}
+{"label":"CITY","pattern":[{"LOWER":"sirohi"}]}
+{"label":"CITY","pattern":[{"LOWER":"murshidabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"navi mumbai"}]}
+{"label":"CITY","pattern":[{"LOWER":"secunderabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"mainpuri"}]}
+{"label":"CITY","pattern":[{"LOWER":"mumbai city"}]}
+{"label":"CITY","pattern":[{"LOWER":"channapatna"}]}
+{"label":"CITY","pattern":[{"LOWER":"kanchipuram"}]}
+{"label":"CITY","pattern":[{"LOWER":"pali"}]}
+{"label":"CITY","pattern":[{"LOWER":"mandi"}]}
+{"label":"CITY","pattern":[{"LOWER":"new delhi south"}]}
+{"label":"CITY","pattern":[{"LOWER":"hissar"}]}
+{"label":"CITY","pattern":[{"LOWER":"dungarpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"basti"}]}
+{"label":"CITY","pattern":[{"LOWER":"chengalpattu"}]}
+{"label":"CITY","pattern":[{"LOWER":"machilipatnam"}]}
+{"label":"CITY","pattern":[{"LOWER":"gokak"}]}
+{"label":"CITY","pattern":[{"LOWER":"kheda"}]}
+{"label":"CITY","pattern":[{"LOWER":"dehra gopipur"}]}
+{"label":"CITY","pattern":[{"LOWER":"thanjavur"}]}
+{"label":"CITY","pattern":[{"LOWER":"munger"}]}
+{"label":"CITY","pattern":[{"LOWER":"dharwad"}]}
+{"label":"CITY","pattern":[{"LOWER":"belagavi"}]}
+{"label":"CITY","pattern":[{"LOWER":"nizamabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"jamnagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"kakinada"}]}
+{"label":"CITY","pattern":[{"LOWER":"hassan"}]}
+{"label":"CITY","pattern":[{"LOWER":"gadag"}]}
+{"label":"CITY","pattern":[{"LOWER":"bijnor"}]}
+{"label":"CITY","pattern":[{"LOWER":"navsari"}]}
+{"label":"CITY","pattern":[{"LOWER":"darbhanga"}]}
+{"label":"CITY","pattern":[{"LOWER":"bulandshahar"}]}
+{"label":"CITY","pattern":[{"LOWER":"agartala"}]}
+{"label":"CITY","pattern":[{"LOWER":"chittorgarh"}]}
+{"label":"CITY","pattern":[{"LOWER":"balaghat"}]}
+{"label":"CITY","pattern":[{"LOWER":"hyderabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"nagpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"sultanpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"raigarh"}]}
+{"label":"CITY","pattern":[{"LOWER":"katihar"}]}
+{"label":"CITY","pattern":[{"LOWER":"bengal"}]}
+{"label":"CITY","pattern":[{"LOWER":"surendranagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"vadakara"}]}
+{"label":"CITY","pattern":[{"LOWER":"pauri"}]}
+{"label":"CITY","pattern":[{"LOWER":"moradabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"aurangabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"nagaland"}]}
+{"label":"CITY","pattern":[{"LOWER":"una"}]}
+{"label":"CITY","pattern":[{"LOWER":"surat"}]}
+{"label":"CITY","pattern":[{"LOWER":"shivamogga"}]}
+{"label":"CITY","pattern":[{"LOWER":"burdwan"}]}
+{"label":"CITY","pattern":[{"LOWER":"faridkot"}]}
+{"label":"CITY","pattern":[{"LOWER":"tirur"}]}
+{"label":"CITY","pattern":[{"LOWER":"nellore"}]}
+{"label":"CITY","pattern":[{"LOWER":"mysuru"}]}
+{"label":"CITY","pattern":[{"LOWER":"delhi"}]}
+{"label":"CITY","pattern":[{"LOWER":"sivaganga"}]}
+{"label":"CITY","pattern":[{"LOWER":"bhatinda"}]}
+{"label":"CITY","pattern":[{"LOWER":"gandhinagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"nagaur"}]}
+{"label":"CITY","pattern":[{"LOWER":"visakhapatnam"}]}
+{"label":"CITY","pattern":[{"LOWER":"gonda"}]}
+{"label":"CITY","pattern":[{"LOWER":"tadepalligudem"}]}
+{"label":"CITY","pattern":[{"LOWER":"bareilly"}]}
+{"label":"CITY","pattern":[{"LOWER":"kottayam"}]}
+{"label":"CITY","pattern":[{"LOWER":"akola"}]}
+{"label":"CITY","pattern":[{"LOWER":"malegaon"}]}
+{"label":"CITY","pattern":[{"LOWER":"begusarai"}]}
+{"label":"CITY","pattern":[{"LOWER":"ahmednagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"kalaburagi"}]}
+{"label":"CITY","pattern":[{"LOWER":"aurangabadbihar"}]}
+{"label":"CITY","pattern":[{"LOWER":"durg"}]}
+{"label":"CITY","pattern":[{"LOWER":"shillong"}]}
+{"label":"CITY","pattern":[{"LOWER":"hooghly"}]}
+{"label":"CITY","pattern":[{"LOWER":"balasore"}]}
+{"label":"CITY","pattern":[{"LOWER":"goa"}]}
+{"label":"CITY","pattern":[{"LOWER":"puttur"}]}
+{"label":"CITY","pattern":[{"LOWER":"ajmer"}]}
+{"label":"CITY","pattern":[{"LOWER":"vijayapura"}]}
+{"label":"CITY","pattern":[{"LOWER":"irinjalakuda"}]}
+{"label":"CITY","pattern":[{"LOWER":"shahdol"}]}
+{"label":"CITY","pattern":[{"LOWER":"bilaspur"}]}
+{"label":"CITY","pattern":[{"LOWER":"jaipur"}]}
+{"label":"CITY","pattern":[{"LOWER":"junagadh"}]}
+{"label":"CITY","pattern":[{"LOWER":"bastar"}]}
+{"label":"CITY","pattern":[{"LOWER":"ottapalam"}]}
+{"label":"CITY","pattern":[{"LOWER":"azamgarh"}]}
+{"label":"CITY","pattern":[{"LOWER":"udhampur"}]}
+{"label":"CITY","pattern":[{"LOWER":"kolkata"}]}
+{"label":"CITY","pattern":[{"LOWER":"kumbakonam"}]}
+{"label":"CITY","pattern":[{"LOWER":"khandwa"}]}
+{"label":"CITY","pattern":[{"LOWER":"srikakulam"}]}
+{"label":"CITY","pattern":[{"LOWER":"parvathipuram"}]}
+{"label":"CITY","pattern":[{"LOWER":"quilon"}]}
+{"label":"CITY","pattern":[{"LOWER":"changanacherry"}]}
+{"label":"CITY","pattern":[{"LOWER":"keonjhar"}]}
+{"label":"CITY","pattern":[{"LOWER":"hoshangabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"pratapgarh"}]}
+{"label":"CITY","pattern":[{"LOWER":"bahraich"}]}
+{"label":"CITY","pattern":[{"LOWER":"pharbhani"}]}
+{"label":"CITY","pattern":[{"LOWER":"sitapur"}]}
+{"label":"CITY","pattern":[{"LOWER":"yeotmal"}]}
+{"label":"CITY","pattern":[{"LOWER":"dharamsala"}]}
+{"label":"CITY","pattern":[{"LOWER":"nilgiris"}]}
+{"label":"CITY","pattern":[{"LOWER":"bhopal"}]}
+{"label":"CITY","pattern":[{"LOWER":"nalbari"}]}
+{"label":"CITY","pattern":[{"LOWER":"budaun"}]}
+{"label":"CITY","pattern":[{"LOWER":"vellore"}]}
+{"label":"CITY","pattern":[{"LOWER":"dehradun"}]}
+{"label":"CITY","pattern":[{"LOWER":"rourkela"}]}
+{"label":"CITY","pattern":[{"LOWER":"buldana"}]}
+{"label":"CITY","pattern":[{"LOWER":"kheri"}]}
+{"label":"CITY","pattern":[{"LOWER":"pathanamthitta"}]}
+{"label":"CITY","pattern":[{"LOWER":"kapurthala"}]}
+{"label":"CITY","pattern":[{"LOWER":"valsad"}]}
+{"label":"CITY","pattern":[{"LOWER":"mizoram"}]}
+{"label":"CITY","pattern":[{"LOWER":"theni"}]}
+{"label":"CITY","pattern":[{"LOWER":"balangir"}]}
+{"label":"CITY","pattern":[{"LOWER":"pune"}]}
+{"label":"CITY","pattern":[{"LOWER":"gudur"}]}
+{"label":"CITY","pattern":[{"LOWER":"hoshiarpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"jhunjhunu"}]}
+{"label":"CITY","pattern":[{"LOWER":"anand"}]}
+{"label":"CITY","pattern":[{"LOWER":"tambaram"}]}
+{"label":"CITY","pattern":[{"LOWER":"haveri"}]}
+{"label":"CITY","pattern":[{"LOWER":"lakshadweep"}]}
+{"label":"CITY","pattern":[{"LOWER":"wanaparthy"}]}
+{"label":"CITY","pattern":[{"LOWER":"guntur"}]}
+{"label":"CITY","pattern":[{"LOWER":"bharatpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"sagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"chennai city"}]}
+{"label":"CITY","pattern":[{"LOWER":"anakapalle"}]}
+{"label":"CITY","pattern":[{"LOWER":"suryapet"}]}
+{"label":"CITY","pattern":[{"LOWER":"madurai"}]}
+{"label":"CITY","pattern":[{"LOWER":"alwaye"}]}
+{"label":"CITY","pattern":[{"LOWER":"palghar"}]}
+{"label":"CITY","pattern":[{"LOWER":"sirsi"}]}
+{"label":"CITY","pattern":[{"LOWER":"giridih"}]}
+{"label":"CITY","pattern":[{"LOWER":"chikodi"}]}
+{"label":"CITY","pattern":[{"LOWER":"tuticorin"}]}
+{"label":"CITY","pattern":[{"LOWER":"goalpara"}]}
+{"label":"CITY","pattern":[{"LOWER":"ratnagiri"}]}
+{"label":"CITY","pattern":[{"LOWER":"pithoragarh"}]}
+{"label":"CITY","pattern":[{"LOWER":"satna"}]}
+{"label":"CITY","pattern":[{"LOWER":"trivandrum"}]}
+{"label":"CITY","pattern":[{"LOWER":"anantapur"}]}
+{"label":"CITY","pattern":[{"LOWER":"mathura"}]}
+{"label":"CITY","pattern":[{"LOWER":"nasik"}]}
+{"label":"CITY","pattern":[{"LOWER":"cooch behar"}]}
+{"label":"CITY","pattern":[{"LOWER":"nalgonda"}]}
+{"label":"CITY","pattern":[{"LOWER":"lucknow"}]}
+{"label":"CITY","pattern":[{"LOWER":"sangareddy"}]}
+{"label":"CITY","pattern":[{"LOWER":"nagaon"}]}
+{"label":"CITY","pattern":[{"LOWER":"tirupattur"}]}
+{"label":"CITY","pattern":[{"LOWER":"chamba"}]}
+{"label":"CITY","pattern":[{"LOWER":"barasat"}]}
+{"label":"CITY","pattern":[{"LOWER":"osmanabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"raichur"}]}
+{"label":"CITY","pattern":[{"LOWER":"jalpaiguri"}]}
+{"label":"CITY","pattern":[{"LOWER":"mayurbhanj"}]}
+{"label":"CITY","pattern":[{"LOWER":"bhiwani"}]}
+{"label":"CITY","pattern":[{"LOWER":"ghaziabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"tiruchirapalli"}]}
+{"label":"CITY","pattern":[{"LOWER":"madhubani"}]}
+{"label":"CITY","pattern":[{"LOWER":"ballari"}]}
+{"label":"CITY","pattern":[{"LOWER":"vadodara"}]}
+{"label":"CITY","pattern":[{"LOWER":"trichur"}]}
+{"label":"CITY","pattern":[{"LOWER":"mirzapur"}]}
+{"label":"CITY","pattern":[{"LOWER":"patna"}]}
+{"label":"CITY","pattern":[{"LOWER":"a - n islands"}]}
+{"label":"CITY","pattern":[{"LOWER":"shrirampur"}]}
+{"label":"CITY","pattern":[{"LOWER":"dholpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"gorakhpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"mavelikara"}]}
+{"label":"CITY","pattern":[{"LOWER":"porbandar"}]}
+{"label":"CITY","pattern":[{"LOWER":"nanded"}]}
+{"label":"CITY","pattern":[{"LOWER":"rohtak"}]}
+{"label":"CITY","pattern":[{"LOWER":"tirupati"}]}
+{"label":"CITY","pattern":[{"LOWER":"cuttack"}]}
+{"label":"CITY","pattern":[{"LOWER":"tonk"}]}
+{"label":"CITY","pattern":[{"LOWER":"nadia"}]}
+{"label":"CITY","pattern":[{"LOWER":"siwan"}]}
+{"label":"CITY","pattern":[{"LOWER":"nalanda"}]}
+{"label":"CITY","pattern":[{"LOWER":"chikkamagaluru"}]}
+{"label":"CITY","pattern":[{"LOWER":"sangli"}]}
+{"label":"CITY","pattern":[{"LOWER":"churu"}]}
+{"label":"CITY","pattern":[{"LOWER":"bhadrak"}]}
+{"label":"CITY","pattern":[{"LOWER":"bhimavaram"}]}
+{"label":"CITY","pattern":[{"LOWER":"amaravati"}]}
+{"label":"CITY","pattern":[{"LOWER":"manjeri"}]}
+{"label":"CITY","pattern":[{"LOWER":"etah"}]}
+{"label":"CITY","pattern":[{"LOWER":"mumbai city north"}]}
+{"label":"CITY","pattern":[{"LOWER":"kodagu"}]}
+{"label":"CITY","pattern":[{"LOWER":"tirunelveli"}]}
+{"label":"CITY","pattern":[{"LOWER":"rajkot"}]}
+{"label":"CITY","pattern":[{"LOWER":"pollachi"}]}
+{"label":"CITY","pattern":[{"LOWER":"cachar"}]}
+{"label":"CITY","pattern":[{"LOWER":"panchmahals"}]}
+{"label":"CITY","pattern":[{"LOWER":"rayagada"}]}
+{"label":"CITY","pattern":[{"LOWER":"pudukkottai"}]}
+{"label":"CITY","pattern":[{"LOWER":"hindupur"}]}
+{"label":"CITY","pattern":[{"LOWER":"fatehpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"ludhiana"}]}
+{"label":"CITY","pattern":[{"LOWER":"tumakuru"}]}
+{"label":"CITY","pattern":[{"LOWER":"thalassery"}]}
+{"label":"CITY","pattern":[{"LOWER":"bhavnagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"bikaner"}]}
+{"label":"CITY","pattern":[{"LOWER":"meerut"}]}
+{"label":"CITY","pattern":[{"LOWER":"trichirapalli"}]}
+{"label":"CITY","pattern":[{"LOWER":"singhbhum"}]}
+{"label":"CITY","pattern":[{"LOWER":"malda"}]}
+{"label":"CITY","pattern":[{"LOWER":"chandigarh"}]}
+{"label":"CITY","pattern":[{"LOWER":"guwahati"}]}
+{"label":"CITY","pattern":[{"LOWER":"cannanore"}]}
+{"label":"CITY","pattern":[{"LOWER":"sikar"}]}
+{"label":"CITY","pattern":[{"LOWER":"nandyal"}]}
+{"label":"CITY","pattern":[{"LOWER":"dhanbad"}]}
+{"label":"CITY","pattern":[{"LOWER":"kanniyakumari"}]}
+{"label":"CITY","pattern":[{"LOWER":"tamluk"}]}
+{"label":"CITY","pattern":[{"LOWER":"cuddapah"}]}
+{"label":"CITY","pattern":[{"LOWER":"allahabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"shahjahanpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"sitamarhi"}]}
+{"label":"CITY","pattern":[{"LOWER":"almora"}]}
+{"label":"CITY","pattern":[{"LOWER":"vijayawada"}]}
+{"label":"CITY","pattern":[{"LOWER":"srinagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"palamau"}]}
+{"label":"CITY","pattern":[{"LOWER":"dinajpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"tinsukia"}]}
+{"label":"CITY","pattern":[{"LOWER":"kanpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"kovilpatti"}]}
+{"label":"CITY","pattern":[{"LOWER":"birbhum"}]}
+{"label":"CITY","pattern":[{"LOWER":"mandla"}]}
+{"label":"CITY","pattern":[{"LOWER":"satara"}]}
+{"label":"CITY","pattern":[{"LOWER":"sangrur"}]}
+{"label":"CITY","pattern":[{"LOWER":"deoria"}]}
+{"label":"CITY","pattern":[{"LOWER":"mahesana"}]}
+{"label":"CITY","pattern":[{"LOWER":"kota"}]}
+{"label":"CITY","pattern":[{"LOWER":"raigad"}]}
+{"label":"CITY","pattern":[{"LOWER":"jodhpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"chamoli"}]}
+{"label":"CITY","pattern":[{"LOWER":"kalahandi"}]}
+{"label":"CITY","pattern":[{"LOWER":"mahabubnagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"rajouri"}]}
+{"label":"CITY","pattern":[{"LOWER":"varanasi"}]}
+{"label":"CITY","pattern":[{"LOWER":"dindigul"}]}
+{"label":"CITY","pattern":[{"LOWER":"ranchi"}]}
+{"label":"CITY","pattern":[{"LOWER":"hanamkonda"}]}
+{"label":"CITY","pattern":[{"LOWER":"meghalaya"}]}
+{"label":"CITY","pattern":[{"LOWER":"srirangam"}]}
+{"label":"CITY","pattern":[{"LOWER":"gondal"}]}
+{"label":"CITY","pattern":[{"LOWER":"purulia"}]}
+{"label":"CITY","pattern":[{"LOWER":"aska"}]}
+{"label":"CITY","pattern":[{"LOWER":"nainital"}]}
+{"label":"CITY","pattern":[{"LOWER":"adilabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"darjeeling"}]}
+{"label":"CITY","pattern":[{"LOWER":"berhampur"}]}
+{"label":"CITY","pattern":[{"LOWER":"amreli"}]}
+{"label":"CITY","pattern":[{"LOWER":"ramanathapuram"}]}
+{"label":"CITY","pattern":[{"LOWER":"champaran"}]}
+{"label":"CITY","pattern":[{"LOWER":"jabalpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"dhenkanal"}]}
+{"label":"CITY","pattern":[{"LOWER":"indore"}]}
+{"label":"CITY","pattern":[{"LOWER":"sambalpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"bengaluru"}]}
+{"label":"CITY","pattern":[{"LOWER":"ratlam"}]}
+{"label":"CITY","pattern":[{"LOWER":"gwalior"}]}
+{"label":"CITY","pattern":[{"LOWER":"jalandhar"}]}
+{"label":"CITY","pattern":[{"LOWER":"kolhapur"}]}
+{"label":"CITY","pattern":[{"LOWER":"saharsa"}]}
+{"label":"CITY","pattern":[{"LOWER":"midnapore"}]}
+{"label":"CITY","pattern":[{"LOWER":"kolar"}]}
+{"label":"CITY","pattern":[{"LOWER":"ujjain"}]}
+{"label":"CITY","pattern":[{"LOWER":"sundargarh"}]}
+{"label":"CITY","pattern":[{"LOWER":"mayiladuthurai"}]}
+{"label":"CITY","pattern":[{"LOWER":"erode"}]}
+{"label":"CITY","pattern":[{"LOWER":"dibrugarh"}]}
+{"label":"CITY","pattern":[{"LOWER":"kasaragod"}]}
+{"label":"CITY","pattern":[{"LOWER":"barmer"}]}
+{"label":"CITY","pattern":[{"LOWER":"purnea"}]}
+{"label":"CITY","pattern":[{"LOWER":"nagapattinam"}]}
+{"label":"CITY","pattern":[{"LOWER":"beawar"}]}
+{"label":"CITY","pattern":[{"LOWER":"gudivada"}]}
+{"label":"CITY","pattern":[{"LOWER":"muzaffarpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"tirupur"}]}
+{"label":"CITY","pattern":[{"LOWER":"rohtas"}]}
+{"label":"CITY","pattern":[{"LOWER":"chhindwara"}]}
+{"label":"CITY","pattern":[{"LOWER":"kurnool"}]}
+{"label":"CITY","pattern":[{"LOWER":"salem"}]}
+{"label":"CITY","pattern":[{"LOWER":"contai"}]}
+{"label":"CITY","pattern":[{"LOWER":"saharanpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"sonepat"}]}
+{"label":"CITY","pattern":[{"LOWER":"samastipur"}]}
+{"label":"CITY","pattern":[{"LOWER":"bidar"}]}
+{"label":"CITY","pattern":[{"LOWER":"koraput"}]}
+{"label":"CITY","pattern":[{"LOWER":"calicut"}]}
+{"label":"CITY","pattern":[{"LOWER":"amritsar"}]}
+{"label":"CITY","pattern":[{"LOWER":"bharuch"}]}
+{"label":"CITY","pattern":[{"LOWER":"asansol"}]}
+{"label":"CITY","pattern":[{"LOWER":"rae bareilly"}]}
+{"label":"CITY","pattern":[{"LOWER":"prakasam"}]}
+{"label":"CITY","pattern":[{"LOWER":"alleppey"}]}
+{"label":"CITY","pattern":[{"LOWER":"udupi"}]}
+{"label":"CITY","pattern":[{"LOWER":"chittoor"}]}
+{"label":"CITY","pattern":[{"LOWER":"idukki"}]}
+{"label":"CITY","pattern":[{"LOWER":"hamirpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"tiruvannamalai"}]}
+{"label":"CITY","pattern":[{"LOWER":"vriddhachalam"}]}
+{"label":"CITY","pattern":[{"LOWER":"palghat"}]}
+{"label":"CITY","pattern":[{"LOWER":"sabarkantha"}]}
+{"label":"CITY","pattern":[{"LOWER":"namakkal"}]}
+{"label":"CITY","pattern":[{"LOWER":"barabanki"}]}
+{"label":"CITY","pattern":[{"LOWER":"solan"}]}
+{"label":"CITY","pattern":[{"LOWER":"saran"}]}
+{"label":"CITY","pattern":[{"LOWER":"ghazipur"}]}
+{"label":"CITY","pattern":[{"LOWER":"gurgaon"}]}
+{"label":"CITY","pattern":[{"LOWER":"jalgaon"}]}
+{"label":"CITY","pattern":[{"LOWER":"morena"}]}
+{"label":"CITY","pattern":[{"LOWER":"bhojpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"rajahmundry"}]}
+{"label":"CITY","pattern":[{"LOWER":"jaunpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"beed"}]}
+{"label":"CITY","pattern":[{"LOWER":"ambala"}]}
+{"label":"CITY","pattern":[{"LOWER":"jammu"}]}
+{"label":"CITY","pattern":[{"LOWER":"darrang"}]}
+{"label":"CITY","pattern":[{"LOWER":"ahmedabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"muzaffarnagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"sibsagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"dharmapuri"}]}
+{"label":"CITY","pattern":[{"LOWER":"banda"}]}
+{"label":"CITY","pattern":[{"LOWER":"chennai"}]}
+{"label":"CITY","pattern":[{"LOWER":"patiala"}]}
+{"label":"CITY","pattern":[{"LOWER":"karnataka"}]}
+{"label":"CITY","pattern":[{"LOWER":"arakkonam"}]}
+{"label":"CITY","pattern":[{"LOWER":"kochi"}]}
+{"label":"CITY","pattern":[{"LOWER":"rampur bushahr"}]}
+{"label":"CITY","pattern":[{"LOWER":"warangal"}]}
+{"label":"CITY","pattern":[{"LOWER":"fatehgarh"}]}
+{"label":"CITY","pattern":[{"LOWER":"bhusaval"}]}
+{"label":"CITY","pattern":[{"LOWER":"sehore"}]}
+{"label":"CITY","pattern":[{"LOWER":"shimla"}]}
+{"label":"CITY","pattern":[{"LOWER":"dharmanagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"bankura"}]}
+{"label":"CITY","pattern":[{"LOWER":"pondicherry"}]}
+{"label":"CITY","pattern":[{"LOWER":"nawadha"}]}
+{"label":"CITY","pattern":[{"LOWER":"baramulla"}]}
+{"label":"CITY","pattern":[{"LOWER":"bangalore"}]}
+{"label":"CITY","pattern":[{"LOWER":"raipur"}]}
+{"label":"CITY","pattern":[{"LOWER":"rewa"}]}
+{"label":"CITY","pattern":[{"LOWER":"bagalkot"}]}
+{"label":"CITY","pattern":[{"LOWER":"hyderabad south"}]}
+{"label":"CITY","pattern":[{"LOWER":"tehri"}]}
+{"label":"CITY","pattern":[{"LOWER":"manipur"}]}
+{"label":"CITY","pattern":[{"LOWER":"peddapalli"}]}
+{"label":"CITY","pattern":[{"LOWER":"alwar"}]}
+{"label":"CITY","pattern":[{"LOWER":"gaya"}]}
+{"label":"CITY","pattern":[{"LOWER":"khammam"}]}
+{"label":"CITY","pattern":[{"LOWER":"ferozpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"etawah"}]}
+{"label":"CITY","pattern":[{"LOWER":"karur"}]}
+{"label":"CITY","pattern":[{"LOWER":"chhatarpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"narasaraopet"}]}
+{"label":"CITY","pattern":[{"LOWER":"tiruvalla"}]}
+{"label":"CITY","pattern":[{"LOWER":"pattukottai"}]}
+{"label":"CITY","pattern":[{"LOWER":"virudhunagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"hardoi"}]}
+{"label":"CITY","pattern":[{"LOWER":"krishnagiri"}]}
+{"label":"CITY","pattern":[{"LOWER":"karimnagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"faizabad"}]}
+{"label":"CITY","pattern":[{"LOWER":"karnal"}]}
+{"label":"CITY","pattern":[{"LOWER":"banaskantha"}]}
+{"label":"CITY","pattern":[{"LOWER":"amalapuram"}]}
+{"label":"CITY","pattern":[{"LOWER":"bhagalpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"coimbatore"}]}
+{"label":"CITY","pattern":[{"LOWER":"pandharpur"}]}
+{"label":"CITY","pattern":[{"LOWER":"bardoli"}]}
+{"label":"CITY","pattern":[{"LOWER":"vizianagaram"}]}
+{"label":"CITY","pattern":[{"LOWER":"wardha"}]}
+{"label":"CITY","pattern":[{"LOWER":"eluru"}]}
+{"label":"CITY","pattern":[{"LOWER":"cuddalore"}]}
+{"label":"CITY","pattern":[{"LOWER":"udaipur"}]}
+{"label":"CITY","pattern":[{"LOWER":"vidisha"}]}
+{"label":"CITY","pattern":[{"LOWER":"kutch"}]}
+{"label":"CITY","pattern":[{"LOWER":"bhubaneswar"}]}
+{"label":"CITY","pattern":[{"LOWER":"alipore"}]}
+{"label":"CITY","pattern":[{"LOWER":"chitradurga"}]}
+{"label":"CITY","pattern":[{"LOWER":"howrah"}]}
+{"label":"CITY","pattern":[{"LOWER":"dhule"}]}
+{"label":"CITY","pattern":[{"LOWER":"ballia"}]}
+{"label":"CITY","pattern":[{"LOWER":"jhansi"}]}
+{"label":"CITY","pattern":[{"LOWER":"proddatur"}]}
+{"label":"CITY","pattern":[{"LOWER":"sriganganagar"}]}
+{"label":"CITY","pattern":[{"LOWER":"patan"}]}
+{"label":"CITY","pattern":[{"LOWER":"bhilwara"}]}
+{"label":"CITY","pattern":[{"LOWER":"karaikudi"}]}
+{"label":"CITY","pattern":[{"LOWER":"nanjangud"}]}
+{"label":"CITY","pattern":[{"LOWER":"gurdaspur"}]}
+{"label":"CITY","pattern":[{"LOWER":"leh"}]}
+{"label":"CITY","pattern":[{"LOWER":"phulbani"}]}
+{"label":"CITY","pattern":[{"LOWER":"mangaluru"}]}
+{"label":"CITY","pattern":[{"LOWER":"agra"}]}
+{"label":"CITY","pattern":[{"LOWER":"ernakulam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"24 paraganas north"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"24 paraganas south"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"adilabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"agar malwa"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"agra"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ahmadabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ahmednagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"aizawl"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ajmer"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"akola"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"alappuzha"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"aligarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"alipurduar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"alirajpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"almora"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"alwar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ambala"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ambedkar nagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"amethi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"amravati"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"amreli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"amritsar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"amroha"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"anand"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"anantapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"anantnag"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"anjaw"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"anugul"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"anuppur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"araria"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ariyalur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"arvalli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"arwal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ashoknagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"auraiya"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"aurangabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ayodhya"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"azamgarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bagalkote"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bageshwar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"baghpat"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bahraich"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"baksa"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"balaghat"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"balangir"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"baleshwar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ballari"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ballia"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"balod"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"baloda bazar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"balrampur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"banas kantha"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"banda"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bandipora"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"banka"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bankura"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"banswara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"barabanki"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"baramulla"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"baran"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bareilly"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bargarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"barmer"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"barnala"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"barpeta"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"barwani"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bastar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"basti"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bathinda"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"beed"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"begusarai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"belagavi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bemetara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bengaluru rural"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bengaluru urban"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"betul"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bhadohi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bhadradri kothagudem"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bhadrak"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bhagalpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bhandara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bharatpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bharuch"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bhavnagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bhilwara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bhind"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bhiwani"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bhojpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bhopal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bidar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bijapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bijnor"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bikaner"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bilaspur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"birbhum"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bishnupur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"biswanath"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bokaro"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bongaigaon"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"botad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"boudh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"budaun"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"budgam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bulandshahr"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"buldhana"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"bundi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"burhanpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"buxar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"cachar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"central"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chamarajanagara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chamba"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chamoli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"champawat"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"champhai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chandauli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chandel"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chandigarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chandrapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"changlang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"charaideo"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"charki dadri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chatra"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chengalpattu"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chennai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chhatarpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chhindwara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chhotaudepur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chikkaballapura"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chikkamagaluru"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chirang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chitradurga"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chitrakoot"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chittoor"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"chittorgarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"churachandpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"churu"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"coimbatore"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"coochbehar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"cuddalore"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"cuttack"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dadra and nagar haveli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dakshina kannada"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"daman"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"damoh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dantewada"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"darbhanga"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"darjeeling"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"darrang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"datia"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dausa"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"davangere"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dehradun"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"deogarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"deoghar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"deoria"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"devbhumi dwarka"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dewas"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dhalai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dhamtari"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dhanbad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dhar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dharmapuri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dharwad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dhemaji"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dhenkanal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dholpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dhubri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dhule"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dibang valley"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dibrugarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dima hasao"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dimapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dinajpur dakshin"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dinajpur uttar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dindigul"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dindori"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"diu"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"doda"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dohad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dumka"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"dungarpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"durg"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"east delhi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"east sikkim"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"east garo hills"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"east godavari"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"east jaintia hills"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"east kameng"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"east khasi hills"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"east nimar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"east siang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"east singhbum"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ernakulam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"erode"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"etah"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"etawah"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"faridabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"faridkot"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"farrukhabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"fatehabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"fatehgarh sahib"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"fatehpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"fazilka"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"firozabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"firozepur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gadag"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gadchiroli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gajapati"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ganderbal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gandhinagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ganganagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ganjam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"garhwa"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gariyaband"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gaurella pendra marwahi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gautam buddha nagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gaya"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ghaziabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ghazipur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gir somnath"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"giridih"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"goalpara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"godda"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"golaghat"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gomati"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gonda"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gondia"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gopalganj"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gorakhpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gumla"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"guna"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"guntur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gurdaspur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gurugram"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"gwalior"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hailakandi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hamirpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hanumangarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"harda"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hardoi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"haridwar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hassan"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hathras"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"haveri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hazaribagh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hingoli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hisar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hnahthial"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hojai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hooghly"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hoshangabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hoshiarpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"howrah"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"hyderabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"idukki"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"imphal east"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"imphal west"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"indore"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jabalpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jagatsinghapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jagitial"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jaipur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jaisalmer"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jajapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jalandhar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jalaun"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jalgaon"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jalna"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jalore"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jalpaiguri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jammu"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jamnagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jamtara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jamui"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jangoan"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"janjgir-champa"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jashpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jaunpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jayashankar bhupalapally"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jehanabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jhabua"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jhajjar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jhalawar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jhansi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jhargram"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jharsuguda"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jhunjhunu"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jind"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jiribam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jodhpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jogulamba gadwal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"jorhat"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"junagadh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kabirdham"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kachchh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kaimur (bhabua)"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kaithal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kakching"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kalaburagi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kalahandi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kalimpong"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kallakurichi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kamareddy"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kamjong"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kamle"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kamrup"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kamrup metro"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kanchipuram"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kandhamal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kangpokpi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kangra"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kanker"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kannauj"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kanniyakumari"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kannur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kanpur dehat"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kanpur nagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kapurthala"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"karaikal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"karauli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"karbi anglong"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kargil"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"karimganj"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"karimnagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"karnal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"karur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kasaragod"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kasganj"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kathua"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"katihar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"katni"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kaushambi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kendrapara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kendujhar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"khagaria"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"khammam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"khargone"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"khawzawl"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kheda"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kheri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"khordha"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"khowai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"khunti"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kinnaur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kiphire"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kishanganj"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kishtwar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kodagu"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"koderma"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kohima"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kokrajhar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kolar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kolasib"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kolhapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kolkata"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kollam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kondagaon"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"koppal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"koraput"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"korba"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"korea"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kota"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kottayam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kozhikode"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kra daadi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"krishna"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"krishnagiri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kulgam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kullu"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kumuram bheem asifabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kupwara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kurnool"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kurukshetra"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kurung kumey"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"kushi nagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lahul and spiti"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lakhimpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lakhisarai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lakshadweep"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lalitpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"latehar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"latur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lawngtlai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"leh ladakh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"leparada"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lohardaga"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lohit"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"longding"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"longleng"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lower dibang valley"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lower siang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lower subansiri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lucknow"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ludhiana"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"lunglei"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"madhepura"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"madhubani"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"madurai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mahabubabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mahabubnagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"maharajganj"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mahasamund"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mahe"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mahendragarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mahesana"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mahisagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mahoba"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mainpuri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"majuli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"malappuram"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"maldah"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"malerkotla"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"malkangiri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mamit"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mancherial"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mandi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mandla"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mandsaur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mandya"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mansa"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"marigaon"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mathura"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mau"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mayiladuthurai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mayurbhanj"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"medak"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"medchal malkajgiri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"medinipur east"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"medinipur west"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"meerut"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mirzapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"moga"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mokokchung"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mon"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"moradabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"morbi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"morena"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mulugu"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mumbai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mumbai suburban"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mungeli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"munger"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"murshidabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"muzaffarnagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"muzaffarpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"mysuru"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nabarangpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nadia"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nagaon"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nagapattinam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nagarkurnool"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nagaur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nagpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nainital"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nalanda"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nalbari"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nalgonda"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"namakkal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"namsai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nanded"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nandurbar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"narayanpet"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"narayanpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"narmada"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"narsinghpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nashik"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"navsari"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nawada"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nayagarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"neemuch"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"new delhi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nicobars"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nirmal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"niwari"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nizamabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"noklak"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"noney"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"north delhi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"north and middle andaman"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"north sikkim"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"north east delhi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"north garo hills"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"north goa"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"north tripura"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"north west"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nuapada"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"nuh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"osmanabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pakke kessang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pakur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"palakkad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"palamu"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"palghar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pali"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"palwal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"panch mahals"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"panchkula"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"panipat"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"panna"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"papum pare"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"parbhani"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"paschim bardhaman"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pashchim champaran"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"patan"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pathanamthitta"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pathankot"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"patiala"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"patna"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pauri garhwal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"peddapalli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"perambalur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"peren"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"phek"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pherzawl"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pilibhit"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pithoragarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pondicherry"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"poonch"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"porbandar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"prakasam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pratapgarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"prayagraj"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pudukkottai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pulwama"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"pune"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"purba bardhaman"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"purbi champaran"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"puri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"purnia"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"purulia"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rae bareli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"raichur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"raigad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"raigarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"raipur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"raisen"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rajanna sircilla"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rajgarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rajkot"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rajnandgaon"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rajouri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rajsamand"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ramanagara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ramanathapuram"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ramban"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ramgarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rampur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ranchi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ranga reddy"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ranipet"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ratlam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ratnagiri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rayagada"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"reasi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rewa"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rewari"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ri bhoi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rohtak"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rohtas"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rudra prayag"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"rupnagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"s.a.s nagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sabar kantha"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"saharanpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"saharsa"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sahebganj"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"saiha"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"saitual"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"salem"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"samastipur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"samba"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sambalpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sambhal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sangareddy"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sangli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sangrur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sant kabeer nagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"saraikela kharsawan"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"saran"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"satara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"satna"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sawai madhopur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sehore"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"senapati"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"seoni"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sepahijala"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"serchhip"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shahdara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shahdol"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shahid bhagat singh nagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shahjahanpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shajapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shamli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sheikhpura"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sheohar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sheopur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shi yomi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shimla"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shivamogga"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shivpuri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shopian"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"shravasti"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"siang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"siddharth nagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"siddipet"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sidhi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sikar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"simdega"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sindhudurg"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"singrauli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sirmaur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sirohi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sirsa"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sitamarhi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sitapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sivaganga"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sivasagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"siwan"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"solan"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"solapur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sonbhadra"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sonepur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sonipat"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sonitpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"south"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"south andamans"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"south sikkim"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"south east"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"south garo hills"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"south goa"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"south salmara mancachar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"south tripura"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"south west"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"south west garo hills"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"south west khasi hills"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"spsr nellore"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sri muktsar sahib"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"srikakulam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"srinagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sukma"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sultanpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"sundargarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"supaul"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"surajpur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"surat"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"surendranagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"surguja"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"suryapet"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tamenglong"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tapi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tarn taran"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tawang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tehri garhwal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tengnoupal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tenkasi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"thane"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"thanjavur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"the nilgiris"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"theni"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"thiruvallur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"thiruvananthapuram"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"thiruvarur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"thoubal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"thrissur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tikamgarh"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tinsukia"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tirap"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tiruchirappalli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tirunelveli"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tirupathur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tiruppur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tiruvannamalai"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tonk"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tuensang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tumakuru"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"tuticorin"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"udaipur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"udalguri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"udam singh nagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"udhampur"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"udupi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ujjain"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"ukhrul"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"umaria"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"una"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"unakoti"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"unnao"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"upper siang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"upper subansiri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"uttar kashi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"uttara kannada"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"vadodara"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"vaishali"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"valsad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"varanasi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"vellore"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"vidisha"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"vijayapura"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"vikarabad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"villupuram"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"virudhunagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"visakhapatanam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"vizianagaram"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"wanaparthy"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"warangal rural"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"warangal urban"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"wardha"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"washim"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"wayanad"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"west delhi"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"west garo hills"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"west godavari"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"west jaintia hills"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"west kameng"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"west karbi anglong"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"west khasi hills"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"west siang"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"west singhbhum"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"west tripura"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"wokha"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"y.s.r."}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"yadadri bhuvanagiri"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"yadgir"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"yamunanagar"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"yanam"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"yavatmal"}]}
+{"label":"DISTRICT","pattern":[{"LOWER":"zunheboto"}]}
