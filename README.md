@@ -50,5 +50,5 @@ python3 -m spacy train config/config.cfg \
 When given a `.xlsx` file where the first column contains addresses, `process_excel.py` will generate a new Excel file with new columns containing the extracted columns.
 
 ```shell
-python3 process_excel.py -i test_data.xlsx
+python3 process_excel.py --input test_data.xlsx
 ```
