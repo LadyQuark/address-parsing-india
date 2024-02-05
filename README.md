@@ -8,6 +8,28 @@ Train a spaCY NLP model to break down an address into following components:
 
 After training, a user should be able to provide an Excel file with the first column containing addresses, and recieve a new Excel file with new columns containing these components.
 
+
+## Installation & Usage
+
+Install all required packages
+
+```shell
+pip3 install -r requirements.txt
+```
+
+Create `.env` file using `.env.example`
+```shell
+cp .env.example .env
+```
+
+When given a `.xlsx` file where the first column contains addresses, `process_excel.py` will generate a new Excel file with new columns containing the extracted columns.
+
+```shell
+python3 process_excel.py --input test_data.xlsx
+```
+
+
+
 ## Files
 `config` folder contains training config files
 
@@ -39,16 +61,7 @@ python3 -m spacy init fill-config config/base_config.cfg config/config.cfg
 python3 -m spacy train config/config.cfg \
 --paths.train corpus/spacy_docbins/train.spacy \
 --paths.dev corpus/spacy_docbins/test.spacy \
---output output/models \
+--output models \
 --training.eval_frequency 10 \
 --training.max_steps 300
-```
-
-
-## Usage
-
-When given a `.xlsx` file where the first column contains addresses, `process_excel.py` will generate a new Excel file with new columns containing the extracted columns.
-
-```shell
-python3 process_excel.py --input test_data.xlsx
 ```
