@@ -1,14 +1,20 @@
 import argparse
+import os
 import pandas as pd
 import spacy
 import time
 
+from dotenv import load_dotenv, find_dotenv
 from pathlib import Path
 from sys import exit
 
 from training_data_prep import massage_data
 
-nlp = spacy.load("output/models/model-best")
+# Get ENV variables
+load_dotenv(find_dotenv())
+MODELS = os.getenv('MODELS')
+
+nlp = spacy.load(MODELS)
 TAGS = [
     "ADDRESS_LINE_1",
     "ADDRESS_LINE_2",

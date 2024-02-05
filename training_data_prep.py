@@ -1,10 +1,13 @@
 # Modified from https://github.com/swapnil-saxena/address-parser/blob/main/training_data_prep.py
 
 import argparse
+import os
 import pandas as pd
 import re
 import spacy
 
+from dotenv import load_dotenv, find_dotenv
+from pathlib import Path
 from spacy.tokens import DocBin
 
 # Define custom entity tag list
@@ -15,6 +18,12 @@ tag_info = {
     "DistrictTag":      { "column_name": "District",         "label": "DISTRICT"        },
     "PincodeTag":       { "column_name": "Pincode",          "label": "PINCODE"         },
 }
+
+# Get ENV variables
+load_dotenv(find_dotenv())
+TRAINING_CSV = os.getenv('TRAINING_CSV')
+TEST_CSV = os.getenv('TEST_CSV')
+DOCBINS = os.getenv('DOCBINS')
 
 # Regexes
 re_commas   = re.compile(r'(,)(?!\s)')
@@ -114,6 +123,12 @@ def main():
 
     parser = argparse.ArgumentParser()
     parser.add_argument("-v", "--verbose", action="store_true")
+    parser.add_argument("-r", "--train", default=TRAINING_CSV, 
+                        help="File path to CSV file containing training data")
+    parser.add_argument("-t", "--test", default=TEST_CSV, 
+                        help="File path to CSV file containing testing data")
+    parser.add_argument("-o", "--output", default=DOCBINS,
+                        help="Path to folder to store generated docbins")
     args = parser.parse_args()
 
 
@@ -122,7 +137,7 @@ def main():
     
     ###### Training dataset prep ###########
     # Read the training dataset into pandas
-    df_train = pd.read_csv(filepath_or_buffer="corpus/dataset/training_data.csv", sep=",", dtype=str)
+    df_train = pd.read_csv(filepath_or_buffer=args.train, sep=",", dtype=str)
 
     # Get entity spans
     df_entity_spans = create_entity_spans(df_train.astype(str))
@@ -130,13 +145,14 @@ def main():
 
     # Get & Persist DocBin to disk
     doc_bin_train = get_doc_bin(training_data, nlp, verbose=args.verbose)
-    doc_bin_train.to_disk("corpus/spacy_docbins/train.spacy")
-    ######################################
+    train_path = Path(args.output) / Path("train.spacy")
+    doc_bin_train.to_disk(train_path)
+    print("Docbin files saved to:", train_path)
 
 
     ###### Validation dataset prep ###########
     # Read the validation dataset into pandas
-    df_test = pd.read_csv(filepath_or_buffer="corpus/dataset/training_data.csv", sep=",", dtype=str)
+    df_test = pd.read_csv(filepath_or_buffer=args.test, sep=",", dtype=str)
 
     # Get entity spans
     df_entity_spans = create_entity_spans(df_test.astype(str))
@@ -145,8 +161,9 @@ def main():
 
     # Get & Persist DocBin to disk
     doc_bin_test = get_doc_bin(validation_data, nlp)
-    doc_bin_test.to_disk("corpus/spacy_docbins/test.spacy")
-    ##########################################
+    test_path = Path(args.output) / Path("test.spacy")
+    doc_bin_test.to_disk(test_path)
+    print("Docbin files saved to:", test_path)
 
 if __name__ == "__main__":
     main()
