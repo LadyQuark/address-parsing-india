@@ -36,7 +36,14 @@ COLUMNS = [
     "STATE",
     "PINCODE",
 ]
-
+COLORS = {"colors": {
+    "ADDRESS_LINE_1": "#fefae0",
+    "ADDRESS_LINE_2": "#faedcd",
+    "CITY": "#ccd5ae",
+    "DISTRICT": "#e9edc9",
+    "STATE": "#a3b18a",
+    "PINCODE": "#d4a373",
+}}
 
 def extract_address_components(address):
     """
@@ -44,7 +51,7 @@ def extract_address_components(address):
     """
     cleansed_address = clean_data(address)
     doc = nlp(cleansed_address)
-    displacy.render(doc, style="ent")
+    displacy.render(doc, style="ent", options=COLORS)
 
     results = {tag: "" for tag in TAGS}
     results["ADDRESS"] = cleansed_address
