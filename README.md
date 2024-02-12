@@ -29,7 +29,6 @@ python3 process_excel.py --input test_data.xlsx
 ```
 
 
-
 ## Files
 `config` folder contains training config files
 

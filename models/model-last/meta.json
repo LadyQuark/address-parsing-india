@@ -2,13 +2,13 @@
   "lang":"en",
   "name":"pipeline",
   "version":"0.0.0",
-  "spacy_version":">=3.7.2,<3.8.0",
+  "spacy_version":">=3.7.3,<3.8.0",
   "description":"",
   "author":"",
   "email":"",
   "url":"",
   "license":"",
-  "spacy_git_version":"a89eae928",
+  "spacy_git_version":"e1249d372",
   "vectors":{
     "width":0,
     "vectors":0,
@@ -22,11 +22,13 @@
       "ADDRESS_LINE_2",
       "CITY",
       "DISTRICT",
-      "PINCODE"
+      "PINCODE",
+      "STATE"
     ],
     "entity_ruler":[
       "CITY",
-      "DISTRICT"
+      "DISTRICT",
+      "STATE"
     ]
   },
   "pipeline":[
@@ -41,36 +43,41 @@
 
   ],
   "performance":{
-    "ents_f":1.0,
-    "ents_p":1.0,
-    "ents_r":1.0,
+    "ents_f":0.7524115756,
+    "ents_p":0.75,
+    "ents_r":0.7548387097,
     "ents_per_type":{
       "ADDRESS_LINE_1":{
-        "p":1.0,
-        "r":1.0,
-        "f":1.0
-      },
-      "ADDRESS_LINE_2":{
-        "p":1.0,
-        "r":1.0,
-        "f":1.0
+        "p":0.6578947368,
+        "r":0.641025641,
+        "f":0.6493506494
       },
       "DISTRICT":{
+        "p":0.3333333333,
+        "r":0.8,
+        "f":0.4705882353
+      },
+      "ADDRESS_LINE_2":{
+        "p":0.4090909091,
+        "r":0.3913043478,
+        "f":0.4
+      },
+      "STATE":{
         "p":1.0,
-        "r":1.0,
-        "f":1.0
+        "r":0.9285714286,
+        "f":0.962962963
       },
       "PINCODE":{
-        "p":1.0,
-        "r":1.0,
-        "f":1.0
+        "p":0.9743589744,
+        "r":0.9743589744,
+        "f":0.9743589744
       },
       "CITY":{
-        "p":1.0,
-        "r":1.0,
-        "f":1.0
+        "p":0.875,
+        "r":0.8,
+        "f":0.8358208955
       }
     },
-    "ner_loss":0.0001274325
+    "ner_loss":0.2817647722
   }
 }
